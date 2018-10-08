@@ -1,0 +1,24 @@
+{
+  "name": "@konojunya/video-streaming-sample",
+  "version": "1.0.0",
+  "description": "[CODE SANDBOX] video streaming sample with HLS.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx parcel watch src/index.html -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/konojunya/video-streaming-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/video-streaming-sample/issues"
+  },
+  "homepage": "https://github.com/konojunya/video-streaming-sample#readme",
+  "dependencies": {
+    "@videojs/http-streaming": "^1.3.0",
+    "express": "^4.16.3"
+  }
+}

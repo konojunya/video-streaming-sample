@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/app.js"],"names":["player","videojs","play"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,IAAIA,MAAM,GAAGC,OAAO,CAAC,MAAD,CAApB;AACAD,MAAM,CAACE,IAAP","file":"app.c3f9f951.map","sourceRoot":"../src","sourcesContent":["var player = videojs('vid1');\nplayer.play();"]}
